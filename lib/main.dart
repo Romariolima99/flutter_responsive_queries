@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:responsividade/tamanho_proporcional.dart';
 // import 'package:responsividade/loja_virtual.dart';
 import 'package:responsividade/tamanho_textos.dart';
 // import 'package:responsividade/orientacao.dart';
@@ -16,6 +17,7 @@ void main() {
     //  home: Orientacao(),
     // home: RegrasLayouts(),
     // home: LojaVirtual(),
-     home: TamanhoTextos(),
+    //  home: TamanhoTextos(),
+        home: TamanhoProporcional(),
   ));
 }
