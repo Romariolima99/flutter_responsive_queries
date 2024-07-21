@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:responsividade/loja_virtual.dart';
+// import 'package:responsividade/loja_virtual.dart';
+import 'package:responsividade/tamanho_textos.dart';
 // import 'package:responsividade/orientacao.dart';
 // import 'package:responsividade/regras_layout.dart';
 // import 'package:responsividade/responsividade_wrap.dart';
@@ -14,6 +15,7 @@ void main() {
     // home: ResponsividadeWrap(),
     //  home: Orientacao(),
     // home: RegrasLayouts(),
-    home: LojaVirtual(),
+    // home: LojaVirtual(),
+     home: TamanhoTextos(),
   ));
 }
