@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+// import 'package:flutter/widgets.dart';
 
 class TamanhoProporcional extends StatefulWidget {
   const TamanhoProporcional({super.key});
